@@ -4,5 +4,7 @@
 
 }
 .div1{
-    border: violet;
+    border: violet solid 10px;
+text-align: right;
+
 }
